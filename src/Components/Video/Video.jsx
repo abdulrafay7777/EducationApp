@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import './Video.css'
-import video from '../../assets/Oggy.mp4'
+import video from '../../assets/frames.mp4'
 
 
 const Video = ({ play, setPlay }) => {
